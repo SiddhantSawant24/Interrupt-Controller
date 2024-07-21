@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Siddhant/Desktop/Interrupt Controller Project
+vic
+Z1 !s110 1721555953
+!i10b 1
+!s100 :`>h2NLONkTV5J]`_71a=1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I]K;[ZWHD<>HUYMJ<N:7n12
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1721552425
+8ic.v
+Fic.v
+!i122 10
+L0 1 125
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1721555952.000000
+!s107 ic.v|tb.v|
+Z6 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 m_X8QIbF8k0S9D_XL;lKA3
+R2
+I:8zJMYZK;::FbCHkTT[[W1
+R3
+R0
+w1721555297
+8tb.v
+Ftb.v
+!i122 10
+L0 2 136
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ic.v|tb.v|
+R6
+!i113 1
+R7
